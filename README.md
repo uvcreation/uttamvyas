@@ -46,8 +46,8 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/uttamvyas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uttamvyas&show_icons=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamvyas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uvcreation&show_icons=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uvcreation"/>
 </a>
 
 ## 📫 Get in touch
