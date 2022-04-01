@@ -44,11 +44,19 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/uttamvyas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uvcreation&show_icons=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uvcreation"/>
-</a>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p>
+  <a href="https://github.com/uttamvyas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uvcreation&show_icons=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=uvcreation&hide_border=true&layout=compact" />
+  </a>
+  <br/>
+  <a href="https://github.com/uttamvyas">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uvcreation&hide_border=true"/>  
+  </a> 
+</p>
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uvcreation) || [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/uvcreation)
