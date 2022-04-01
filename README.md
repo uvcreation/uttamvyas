@@ -3,7 +3,7 @@
 
 I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passionate about technologies and love to learn new things.
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
 
 ## ⚡ Tech Stack
 
