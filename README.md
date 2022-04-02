@@ -5,6 +5,28 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const uttam = {
+    pronouns: "He" | "Him",
+    code: [".NET", "C#", "Angular" ,"HTML", "CSS","MSSQL","MySQL"],
+    askMeAbout: ["WebDev", "Tech", "Gaming"],
+    technologies: {
+        backEnd: {
+            js: [".NET", ".NET Core"],
+        },
+        devOps: ["Azure", "Docker🐳"],
+        databases: ["MSSQL", "MySql", "sqlite"],
+        misc: ["selenium"]
+    },
+    currentFocus: ".NET Core",
+    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
+          The second byte replies, 'No, just feeling a bit off.'"
+};
+```
+<br>
+
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
@@ -17,6 +39,7 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 ### 🧩 Libraries & Framework
 
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -25,6 +48,13 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### 🔒 Databases
+
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ### 🧑🏻‍💻 Tools & Platform
@@ -38,6 +68,7 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 💻 Workspace
 
@@ -48,11 +79,16 @@ I am a Full Stack Software Developer and Machine-Learning enthusiast. I am passi
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p>
+  <br>
   <a href="https://github.com/uttamvyas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uvcreation&show_icons=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=uvcreation&hide_border=true&layout=compact" />
   </a>
-  <br/>
+  <br>
+
+  ----
+
+  <br>
   <a href="https://github.com/uttamvyas">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=uvcreation&hide_border=true"/>  
   </a> 
